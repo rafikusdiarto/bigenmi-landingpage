@@ -1,0 +1,9 @@
+Date: 01-12-2022
+
+Version: 1.3
+
+===================
+
+01. Bootstrap framework update - v5.0.2 to v5.2.3.
+02. Counterup plugin console error has been fixed.
+
