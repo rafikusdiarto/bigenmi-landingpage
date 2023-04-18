@@ -1,6 +1,15 @@
 (function ($) {
     "use strict";
     
+    const modalSlider = new Swiper('.modal-swiper', {
+        slidesPerView: 1,
+        navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+        },
+    })
+
+
     /*--
     currency active
     -----------------------------------*/
